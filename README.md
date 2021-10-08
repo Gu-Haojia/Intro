@@ -1,2 +1,2 @@
 @Yuuki-Yoda
-Nogizaka & Yoda Yuuki  推し
+@Nogizaka & Yoda Yuuki  推し
