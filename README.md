@@ -8,10 +8,10 @@ Using C++ & Python available.
 
 Learning Java.
 
-よろしくお願いいたします。
+よろしくお願いいたします
 
-大学生です。　新米プログラマーです。
+大学生です 新米プログラマーです
 
-C＋＋と　Python　利用可能です。
+C++とPython利用可能
 
-いま、Javaえを勉強しています。
+いまJavaえを勉強しています
