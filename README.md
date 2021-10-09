@@ -14,4 +14,4 @@ Learning Java.
 
 C++とPython利用可能
 
-いまJavaえを勉強しています
+いまJavaを勉強しています
